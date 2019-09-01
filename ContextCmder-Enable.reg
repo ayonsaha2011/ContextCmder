@@ -5,7 +5,7 @@ Windows Registry Editor Version 5.00
 "Icon"="C:\\cmder\\Cmder.exe,0"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Cmder\command]
-@="\"C:\\cmder\\Cmder.exe\" /task cmder \"%V\""
+@="\"C:\\cmder\\Cmder.exe\" /task cmd \"%V\""
 
 [HKEY_CLASSES_ROOT\Directory\shell\Cmder]
 @="Open Cmder Here"
